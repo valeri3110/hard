@@ -1,9 +1,58 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+[
+   {
+    "id": 1, 
+    "title": "12 Things to know before buying a house", 
+    "image": "/images/article/images/img-1",
+    "text": "Want to buy a house but are unsure about what we should know, here I will try to explain what we should know and check when we want to buy a house",
+    "author": [
+     "avatar": "/images/article/avatars/avatar-1",
+      "name": "Cameron Williamson",
+    ],
+    "time": [
+     "icon": "/images/article/time",
+      "text": "8 min read | 25 Apr 2021",
+    ],
+  },
+  {
+    "id": 2, 
+    "title": "The things we need to check when we want to buy a house", 
+    "image": "/images/article/images/img-2",
+    "text": "Want to buy a house but are unsure about what we should know, here I will try to explain what we should know and check when we want to buy a house",
+    "author": [
+     "avatar": "/images/article/avatars/avatar-2",
+      "name": "Dianne Russell",
+    ],
+    "time": [
+     "icon": "/images/article/time",
+      "text": "4 min read | 25 Apr 2021",
+    ],
+  },
+  {
+    "id": 3, 
+    "title": "7 Ways to distinguish the quality of the house we want to buy", 
+    "image": "/images/article/images/img-3",
+    "text": "Want to buy a house but are unsure about what we should know, here I will try to explain what we should know and check when we want to buy a house",
+    "author": [
+     "avatar": "/images/article/avatars/avatar-3",
+      "name": "Courtney Henry",
+    ],
+    "time": [
+     "icon": "/images/article/time",
+      "text": "6 min read | 24 Apr 2021",
+    ],
+  },
+  {
+    "id": 4, 
+    "title": "The best way to know the quality of the house we want to buy", 
+    "image": "/images/article/images/img-4",
+    "text": "Want to buy a house but are unsure about what we should know, here I will try to explain what we should know and check when we want to buy a house",
+    "author": [
+     "avatar": "/images/article/avatars/avatar-4",
+      "name": "Darlene Robertson",
+    ],
+    "time": [
+     "icon": "/images/article/time",
+      "text": "2 min read | 24 Apr 2021",
+    ],
+  },
+]
